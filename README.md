@@ -10,7 +10,7 @@
 * [Contact](#contact)
 
 ## General Info
-Learning basic of developing game using this framework
+Learning basics of developing game using this framework
 
  ## IDE
 * Visual Studio (C#)
