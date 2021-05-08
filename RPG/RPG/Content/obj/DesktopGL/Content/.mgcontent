@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>/Users/derrinechia/Projects/RPG/RPG/Content/background.png</File>
+    <File>/Users/derrinechia/Projects/RPG/RPG/Content/ball.png</File>
+    <File>/Users/derrinechia/Projects/RPG/RPG/Content/Player/player.png</File>
+    <File>/Users/derrinechia/Projects/RPG/RPG/Content/Player/walkDown.png</File>
+    <File>/Users/derrinechia/Projects/RPG/RPG/Content/Player/walkLeft.png</File>
+    <File>/Users/derrinechia/Projects/RPG/RPG/Content/Player/walkRight.png</File>
+    <File>/Users/derrinechia/Projects/RPG/RPG/Content/Player/walkUp.png</File>
+    <File>/Users/derrinechia/Projects/RPG/RPG/Content/skull.png</File>
+    <File>/Users/derrinechia/Projects/RPG/RPG/Content/Sound/blip.wav</File>
+    <File>/Users/derrinechia/Projects/RPG/RPG/Content/Sound/nature.ogg</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

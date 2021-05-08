@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>/Users/derrinechia/Projects/RPG/RPG/Content/Sound/nature.ogg</SourceFile>
+  <SourceTime>2021-05-07T17:50:27.1996501-06:00</SourceTime>
+  <DestFile>/Users/derrinechia/Projects/RPG/RPG/Content/bin/DesktopGL/Content/Sound/nature.xnb</DestFile>
+  <DestTime>2021-05-07T17:54:13.6974952-06:00</DestTime>
+  <Importer>OggImporter</Importer>
+  <ImporterTime>2020-08-10T16:17:54-06:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2020-08-10T16:17:54-06:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>/Users/derrinechia/Projects/RPG/RPG/Content/bin/DesktopGL/Content/Sound/nature.ogg</string>
+  </BuildOutput>
+</PipelineBuildEvent>

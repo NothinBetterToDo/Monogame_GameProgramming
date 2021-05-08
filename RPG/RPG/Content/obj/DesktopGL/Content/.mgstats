@@ -1,0 +1,11 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"/Users/derrinechia/Projects/RPG/RPG/Content/background.png","/Users/derrinechia/Projects/RPG/RPG/Content/bin/DesktopGL/Content/background.xnb","TextureProcessor","Texture2DContent",70634,24920149,1.47573
+"/Users/derrinechia/Projects/RPG/RPG/Content/ball.png","/Users/derrinechia/Projects/RPG/RPG/Content/bin/DesktopGL/Content/ball.xnb","TextureProcessor","Texture2DContent",699,36949,0.004114
+"/Users/derrinechia/Projects/RPG/RPG/Content/Player/player.png","/Users/derrinechia/Projects/RPG/RPG/Content/bin/DesktopGL/Content/Player/player.xnb","TextureProcessor","Texture2DContent",1072,36949,0.014016
+"/Users/derrinechia/Projects/RPG/RPG/Content/Player/walkDown.png","/Users/derrinechia/Projects/RPG/RPG/Content/bin/DesktopGL/Content/Player/walkDown.xnb","TextureProcessor","Texture2DContent",5078,147541,0.006362
+"/Users/derrinechia/Projects/RPG/RPG/Content/Player/walkLeft.png","/Users/derrinechia/Projects/RPG/RPG/Content/bin/DesktopGL/Content/Player/walkLeft.xnb","TextureProcessor","Texture2DContent",5640,147541,0.039908
+"/Users/derrinechia/Projects/RPG/RPG/Content/Player/walkRight.png","/Users/derrinechia/Projects/RPG/RPG/Content/bin/DesktopGL/Content/Player/walkRight.xnb","TextureProcessor","Texture2DContent",5308,147541,0.005751
+"/Users/derrinechia/Projects/RPG/RPG/Content/Player/walkUp.png","/Users/derrinechia/Projects/RPG/RPG/Content/bin/DesktopGL/Content/Player/walkUp.xnb","TextureProcessor","Texture2DContent",4574,147541,0.025473
+"/Users/derrinechia/Projects/RPG/RPG/Content/skull.png","/Users/derrinechia/Projects/RPG/RPG/Content/bin/DesktopGL/Content/skull.xnb","TextureProcessor","Texture2DContent",9601,506965,0.029105
+"/Users/derrinechia/Projects/RPG/RPG/Content/Sound/blip.wav","/Users/derrinechia/Projects/RPG/RPG/Content/bin/DesktopGL/Content/Sound/blip.xnb","SoundEffectProcessor","SoundEffectContent",7218,7279,1.150203
+"/Users/derrinechia/Projects/RPG/RPG/Content/Sound/nature.ogg","/Users/derrinechia/Projects/RPG/RPG/Content/bin/DesktopGL/Content/Sound/nature.xnb","SongProcessor","SongContent",1048881,124,1.297924

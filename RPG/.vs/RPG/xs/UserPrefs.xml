@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{B1C8F09F-4BC1-4610-A399-8AA83636E4B9}|Default">
+  <MonoDevelop.Ide.ItemProperties.RPG PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RPG/Game1.cs">
+    <Files>
+      <File FileName="RPG/Game1.cs" Line="47" Column="47" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RPG" expanded="True">
+            <Node name="RPG" expanded="True">
+              <Node name="Content" expanded="True">
+                <Node name="Sound" expanded="True" />
+              </Node>
+              <Node name="Game1.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
