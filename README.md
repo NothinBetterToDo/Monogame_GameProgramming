@@ -17,7 +17,6 @@ Learning basics of developing game using this framework
 
 ## Projects
 <img src="https://github.com/NothinBetterToDo/Monogame_GameProgramming/blob/main/ShootingGallery/Screen%20Shot%202021-05-08%20at%209.34.21%20PM.png " width="400" />
-<br/>
 
 Shooting Gallery
 * Monogame structure, assets 
