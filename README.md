@@ -20,6 +20,8 @@ Shooting Gallery
 * Monogame structure, assets 
 * Sprite, target variables, mouse input
 * Randomness, timer <br/>
+![Shooting Gallery](https://github.com/NothinBetterToDo/Monogame_GameProgramming/blob/main/ShootingGallery/Screen%20Shot%202021-05-08%20at%209.34.21%20PM.png)
+
 
 ## Status
 Project is: _in progress_
