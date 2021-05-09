@@ -24,6 +24,15 @@ Shooting Gallery
 * Randomness, timer <br/>
 
 
+<img src="https://github.com/NothinBetterToDo/Monogame_GameProgramming/blob/main/RPG/Screen%20Shot%202021-05-08%20at%209.44.04%20PM.png" width="400" />
+
+RPG
+* Player, enemies, projectile class
+* Animating player, direction
+* Shooting projectiles, spawn enemies
+* Sound, music <br/>
+
+
 
 ## Status
 Project is: _in progress_
