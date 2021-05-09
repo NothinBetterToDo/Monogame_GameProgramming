@@ -43,7 +43,7 @@ RPG
 
 
 ## Status
-Project is: _in progress_
+Project is: _completed_
 
 ## Inspiration
 Stardew Valley - concernedApe </br>
@@ -51,4 +51,4 @@ Zelda </br>
 Tutorial Lessons by Kyle Schaub on Udemy </br>
 
 ## Contact
-Created by @HumanBeing
+@HumanBeing
