@@ -21,8 +21,8 @@ Shooting Gallery
 * Sprite, target variables, mouse input
 * Randomness, timer <br/>
 
-![Shooting Gallery](https://github.com/NothinBetterToDo/Monogame_GameProgramming/blob/main/ShootingGallery/Screen%20Shot%202021-05-08%20at%209.34.21%20PM.png | width = 48)
-
+![Shooting Gallery]
+<img src="https://github.com/NothinBetterToDo/Monogame_GameProgramming/blob/main/ShootingGallery/Screen%20Shot%202021-05-08%20at%209.34.21%20PM.png " width="200" />
 
 
 ## Status
