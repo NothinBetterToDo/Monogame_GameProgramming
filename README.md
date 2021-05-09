@@ -24,6 +24,14 @@ Shooting Gallery
 * Randomness, timer <br/>
 
 
+<img src="https://github.com/NothinBetterToDo/Monogame_GameProgramming/blob/main/Spaceship/Screen%20Shot%202021-05-08%20at%209.51.59%20PM.png" width="400" />
+
+Spaceship
+* Ship class, movement
+* Controller class, asteroid list
+* Colliding asteroids <br/>
+
+
 <img src="https://github.com/NothinBetterToDo/Monogame_GameProgramming/blob/main/RPG/Screen%20Shot%202021-05-08%20at%209.44.04%20PM.png" width="400" />
 
 RPG
