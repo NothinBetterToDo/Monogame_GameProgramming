@@ -17,11 +17,11 @@ Learning basics of developing game using this framework
 
 ## Projects
 Shooting Gallery
+<img src="https://github.com/NothinBetterToDo/Monogame_GameProgramming/blob/main/ShootingGallery/Screen%20Shot%202021-05-08%20at%209.34.21%20PM.png " width="400" />
+
 * Monogame structure, assets 
 * Sprite, target variables, mouse input
 * Randomness, timer <br/>
-
-<img src="https://github.com/NothinBetterToDo/Monogame_GameProgramming/blob/main/ShootingGallery/Screen%20Shot%202021-05-08%20at%209.34.21%20PM.png " width="400" />
 
 
 ## Status
